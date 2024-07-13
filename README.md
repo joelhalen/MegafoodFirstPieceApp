@@ -9,7 +9,7 @@
   4. Run `main.py`
 
 ## Usage
-1. Once the program is running, sign-in using the credentials you were provided. If you need sign-on credentials, contact a member of IT or Andy Morris.
+1. Once the program is running, sign-in using the credentials you were provided. If you need sign-on credentials, contact a member of IT.
 2. Select which blend you are inspecting
 3. Upload the current image of the lot you are inspecting
 4. Compare the previous lots to your current lot to ensure their consistency
